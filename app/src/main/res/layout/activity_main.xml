@@ -23,7 +23,7 @@
         android:contentDescription="arthurChess"
         android:src="@drawable/arthur"
         android:layout_marginLeft="5dp"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="50dp"
         />
 
     <Button
